@@ -1,0 +1,67 @@
+---
+title: "Lab 07"
+author: '[Names here]'
+subtitle: 'due March 18, 2022 at 11:59 PM '
+output:
+  pdf_document: default
+editor_options:
+  chunk_output_type: inline
+---
+
+```{r include = FALSE}
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse)
+library(tidymodels)
+``` 
+
+```{r load-data, message = FALSE}
+pantheria = read_csv("pantheria_subset.csv")
+```
+
+# Exercise 1
+
+```{r ex-1}
+# code here
+```
+
+# Exercise 2
+
+```{r ex-2}
+# code here
+```
+
+# Exercise 3
+
+```{r ex-3}
+# code here
+```
+
+
+# Exercise 4
+
+
+# Exercise 5
+
+
+# Exercise 6
+
+```{r ex-6}
+# code here
+```
+
+
+# Exercise 7
+
+```{r ex-7}
+# code here
+```
+
+# Exercise 8
+
+```{r ex-8}
+# code here
+```
+
